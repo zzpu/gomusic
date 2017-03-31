@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gomusic&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../github.com/docker/docker/vendor/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../got" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../goc_k" />
+      <root url="file://$PROJECT_DIR$/../goc.bak" />
+      <root url="file://$PROJECT_DIR$/../spec" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../ipmi_ctl-2.0" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/docker/vendor/src/google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../git.oschina.net" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/containerd/vendor/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../goc" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/containerd/vendor/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/containerd/vendor/src/google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/docker/vendor/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/docker/vendor/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../github.com/docker/docker/vendor/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../got" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../goc_k" />
+      <root url="file://$PROJECT_DIR$/../goc.bak" />
+      <root url="file://$PROJECT_DIR$/../spec" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../ipmi_ctl-2.0" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/docker/vendor/src/google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../git.oschina.net" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/containerd/vendor/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../goc" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/containerd/vendor/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/containerd/vendor/src/google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/docker/vendor/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/docker/vendor/src/golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
